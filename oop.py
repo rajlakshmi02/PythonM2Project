@@ -13,5 +13,3 @@ s1.display()
 class AIPA(student):
     def display(self):
         print("student of AIPA")
-class CSA(student):
-    print(student of CSA")
